@@ -1,0 +1,36 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{Resumen}{III}
+\contentsline {chapter}{Agradecimientos}{1}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{9}
+\contentsline {section}{\numberline {1.1}Motivaci\IeC {\'o}n}{10}
+\contentsline {section}{\numberline {1.2}Estructura Solar}{10}
+\contentsline {subsection}{\numberline {1.2.1}Interior Solar - D\IeC {\'\i }namo}{10}
+\contentsline {subsection}{\numberline {1.2.2}La fotosfera}{10}
+\contentsline {subsection}{\numberline {1.2.3}La cromosfera}{10}
+\contentsline {subsection}{\numberline {1.2.4}La corona solar}{10}
+\contentsline {subsection}{\numberline {1.2.5}Ciclo Solar}{10}
+\contentsline {section}{\numberline {1.3}Concepto de plasma}{10}
+\contentsline {subsection}{\numberline {1.3.1}Emisividad}{10}
+\contentsline {subsection}{\numberline {1.3.2}EUV}{10}
+\contentsline {subsection}{\numberline {1.3.3}Luz Blanca}{10}
+\contentsline {section}{\numberline {1.4}MHD}{10}
+\contentsline {section}{\numberline {1.5}observaciones - instrumentacion}{11}
+\contentsline {subsection}{\numberline {1.5.1}EIT/soho}{11}
+\contentsline {subsection}{\numberline {1.5.2}LASCO/soho}{11}
+\contentsline {subsection}{\numberline {1.5.3}EUVI/stereo}{11}
+\contentsline {subsection}{\numberline {1.5.4}AIA/sdo}{11}
+\contentsline {subsection}{\numberline {1.5.5}K-Coronogrpah/HAO}{11}
+\contentsline {subsection}{\numberline {1.5.6}ADAPT-GONG}{11}
+\contentsline {section}{\numberline {1.6}PFSS}{12}
+\contentsline {subsection}{\numberline {1.6.1}Trazado}{12}
+\contentsline {section}{\numberline {1.7}DEMT}{12}
+\contentsline {subsection}{\numberline {1.7.1}El problema tomogr\IeC {\'a}fico}{12}
+\contentsline {subsection}{\numberline {1.7.2}FBE}{12}
+\contentsline {subsection}{\numberline {1.7.3}Validacion cruzada}{12}
+\contentsline {subsection}{\numberline {1.7.4}Momentos LDEM}{12}
+\contentsline {subsection}{\numberline {1.7.5}Incertezas}{12}
+\contentsline {section}{\numberline {1.8}AWSoM}{12}
+\contentsline {chapter}{\numberline {2}Resultados}{13}
+\contentsline {section}{\numberline {2.1}Paper1}{13}
+\contentsline {section}{\numberline {2.2}Paper2}{13}
+\contentsline {section}{\numberline {2.3}Paper3}{13}

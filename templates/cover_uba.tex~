@@ -1,0 +1,82 @@
+
+\thispagestyle{empty}
+\pagenumbering{Roman}
+\begin{center}
+
+\includegraphics[width=0.3\textwidth]{figuras/Logo-fcenuba.pdf}\\[1cm] 
+\textsc{\LARGE Universidad de Buenos Aires}\\[0.5cm]
+\textsc{\large Facultad de Ciencias Exactas y Naturales}\\[0.5cm]
+\textsc{  Departamento de Física }\\[0.5cm]
+
+
+{\huge Estudio Tomográfico Comparativo de Mínimos Solares con Telescopios EUV}\\[0.1cm]
+
+\textsc{ Tesis presentada para optar al título de} \\
+\textsc{Doctor de la Universidad de Buenos Aires en el área de Ciencias Físicas}\\[0.1cm]
+
+por {\LARGE \textbf{Diego G. Lloveras}} \\ [0.5cm]
+
+\large {
+Director de Tesis: Dr. Alberto M. Vásquez \\[0.2cm]
+Consejera de Estudios: Dra. Cristina Mandrini\\[0.2cm]
+Lugar de Trabajo: Instituto de Astronomía y Física del Espacio\\ 
+}
+\vfill
+
+Fecha de defensa: Junio de 2021
+
+\end{center}
+
+\newpage~
+\newpage
+\begin{comment}
+\begin{flushleft}
+TEMA: Física de la Corona Solar.\\
+
+ALUMNO: Diego G. Lloveras \\
+
+L.U. N$^{\circ}$: 648/10 \\
+
+LUGAR DE TRABAJO: Instituto de Astronomía y Física del Espacio.\\
+
+DIRECTOR DEL TRABAJO: Dr. Alberto M. Vásquez, Investigador Independiente CONICET, Instituto de Astronomía y Física del Espacio (CONICET-UBA). \\
+
+CO-DIRECTOR DEL TRABAJO: Dr. Richard A. Frazin, Associate Research Scientist, Climate and Space Sciences and Engineering Department, University of Michigan. \\
+
+FECHA DE INICIACIÓN: Abril de 2015 \\
+
+FECHA DE FINALIZACIÓN: Marzo de 2016\\
+
+FECHA DE EXAMEN: \\
+
+INFORME FINAL APROBADO POR:
+\end{flushleft}                                                              %
+                                                            %
+\vspace{2cm}
+
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+Autor &  \,\,\,\,\, \,\,\,\,\,\,\,\,\, \,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,Jurado \,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\, \,\,\,\,\,\,\,\,\,\,\,\, \\
+       &            \\
+  ..............................            &     ..............................          \\
+       &            \\
+\hline
+Director &  \,\,\,\,\, \,\,\,\,\,\,\,\,\, \,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,Jurado \,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\, \,\,\,\,\,\,\,\,\,\,\,\, \\
+       &            \\
+  ..............................            &     ..............................          \\
+       &            \\
+\hline
+Co-Director &      \,\,\,\,\, \,\,\,\,\,\,\,\,\, \,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,Jurado \,\,\,\,\, \,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\, \,\,\,\,\,\,\,\\
+       &            \\
+  ..............................            &       ..............................        \\
+         &            \\
+ \hline
+Profesora de Tesis de Licenciatura &  \,\,\,\,\,\,\, \,\,\,\,\, \,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\, \,\,\,\,\,\\
+       &            \\
+  ..............................       &                                          \\
+         &            \\
+\hline
+\end{tabular}
+\end{center}
+\end{comment}

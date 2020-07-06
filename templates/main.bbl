@@ -1,0 +1,18 @@
+\newcommand{\noopsort}[1]{} \newcommand{\printfirst}[2]{#1}
+  \newcommand{\singleletter}[1]{#1} \newcommand{\switchargs}[2]{#2#1}
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Arge} {et~al.}(2010){Arge}, {Henney}, {Koller}, {Compeau}, {Young},
+  {MacKenzie}, {Fay}, \& {Harvey}}]{arge_2010}
+{Arge}, C.~N., {Henney}, C.~J., {Koller}, J., {et~al.} 2010, in American
+  Institute of Physics Conference Series, Vol. 1216, Twelfth International
+  Solar Wind Conference, ed. M.~{Maksimovic}, K.~{Issautier},
+  N.~{Meyer-Vernet}, M.~{Moncuquet}, \& F.~{Pantellini}, 343--346
+
+\bibitem[{{Hickmann} {et~al.}(2015){Hickmann}, {Godinez}, {Henney}, \&
+  {Arge}}]{hickmann_2015}
+{Hickmann}, K.~S., {Godinez}, H.~C., {Henney}, C.~J., \& {Arge}, C.~N. 2015,
+  \solphys, 290, 1105
+
+\end{thebibliography}

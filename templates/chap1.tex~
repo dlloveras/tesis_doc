@@ -1,0 +1,41 @@
+%% This is an example first chapter.  You should put chapter/appendix that you
+%% write into a separate file, and add a line \include{yourfilename} to
+%% main.tex, where `yourfilename.tex' is the name of the chapter/appendix file.
+%% You can process specific files by typing their names in at the 
+%% \files=
+%% prompt when you run the file main.tex through LaTeX.
+\chapter{Introduction}
+
+
+\section{Motivations }
+
+\section{MHD}
+Damping of Alfvén wave turbulence as a source of coronal heating has also been extensively studied from the early days of in situ solar wind observations (e.g., Barnes 1966, 1968). Later, it was demonstrated that reflection from sharp pressure gradients in the solar wind (Heinemann and Olbert 1980; Leroy 1980) is a critical component of Alfvén wave turbulence damping (Matthaeus et al. 1999; Dmitruk et al. 2002; Verdini and Velli 2007). For this reason, many numerical models explore the generation of reflected counter-propagating waves as the underlying cause of the turbulence energy cascade (e.g., Cranmer and Van Ballegooijen 2010), which transports the energy of turbulence from the large-scale motions across the inertial range of the turbulence spatial scale to short-wavelength perturbations. The latter can be efficiently damped due to wave–particle interaction. In this way, the turbulence energy is converted to random (thermal) energy.
+
+\section{AWSoM}\label{ch1:opts}
+
+
+
+
+\subsection{ADAPT-GONG}
+
+El objetivo de los modelos de transporte de flujo magnético es proporcionar la mejor estimación de la variación espacial global del campo magnético solar. La inclusión del transporte de flujo ayuda a minimizar los posibles momentos monopolo que ocurren periódicamente en los mapas sinópticos de Carrington cerca del borde de la extremidad solar solar de los datos observados recientemente fusionados y durante los períodos en que las regiones polares solares no se observan bien desde la Tierra. ver \citep{arge_2010} y \citep{hickmann_2015}.
+
+
+
+% This is an example of how you would use tgrind to include an example
+% of source code; it is commented out in this template since the code
+% example file does not exist.  To use it, you need to remove the '%' on the
+% beginning of the line, and insert your own information in the call.
+%
+%\tagrind[htbp]{code/pmn.s.tex}{Post Multiply Normalization}{opt:pmn}
+
+
+% This is an example of how you would use tgrind to include an example
+% of source code; it is commented out in this template since the code
+% example file does not exist.  To use it, you need to remove the '%' on the
+% beginning of the line, and insert your own information in the call.
+%
+%\tgrind[htbp]{code/be.s.tex}{Block Exponent}{opt:be}
+
+

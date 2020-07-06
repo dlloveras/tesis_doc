@@ -1,0 +1,103 @@
+\documentclass[12pt,twoside]{mitthesis}
+\usepackage{lgrind}
+%% These have been added at the request of the MIT Libraries, because
+%% some PDF conversions mess up the ligatures.  -LB, 1/22/2014
+\usepackage{cmap}
+\usepackage[T1]{fontenc}
+%% Package "lmodern" added by user request see ServiceNow INC0396734 -OT, 4/29/2020
+\usepackage{lmodern}
+
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[spanish]{babel}
+\usepackage[dvips]{graphics,color,epsfig}
+%\usepackage[latin1]{inputenc}
+
+\usepackage{pst-all}
+\usepackage{pstricks}
+
+\usepackage{amssymb} % Math
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{amsmath}
+%\input{definiciones_diego}
+\usepackage{comment}
+\usepackage{physics}
+
+\usepackage{natbib}
+
+
+\def\red#1{{\textcolor{red}{#1}}}
+\def\deg{$^\circ$}
+\def\rsun{R$_{\odot}$}
+\def\fig#1{Figura \ref{#1}}
+\def\mrsun{{\rm R_\odot}}
+\def\kp{k$_{\rm p}$}
+\def\ap{A$_{\rm p}$}
+\def\bz{B$_{\rm z}$}
+\def\hpt{HP$_{\rm t}$}
+\def\hpe{HP$_{\rm e}$}
+\def\hpi{HP$_{\rm i}$}
+\def\ppe{P$_{\rm e}$}
+\def\ppi{P$_{\rm i}$}
+\def\vsw{V$_{\rm sw}$}
+\def\dsw{D$_{\rm sw}$}
+\def\psw{P$_{\rm sw}$}
+\def\bt{B$_{\rm t}$}
+\def\vbt{VB$_{\rm t}$}
+\def\ekl{E$_{\rm kl}$}
+\def\rt{${\rm R_T}$}
+\def\bvec{$\vec{B}$}
+
+% Definitions for the journal names
+\newcommand{\adv}{    {\it Adv. Space Res.}} 
+\newcommand{\annG}{   {\it Ann. Geophys.}} 
+\newcommand{\aap}{    {\it Astron. Astrophys.}}
+\newcommand{\aaps}{   {\it Astron. Astrophys. Suppl.}}
+\newcommand{\aapr}{   {\it Astron. Astrophys. Rev.}}
+\newcommand{\ag}{     {\it Ann. Geophys.}}
+\newcommand{\aj}{     {\it Astron. J.}} 
+\newcommand{\apj}{    {\it Astrophys. J.}}
+\newcommand{\apjs}{   {\it Astrophys. J. Suppl.}}
+\newcommand{\apjl}{   {\it Astrophys. J. Lett.}}
+\newcommand{\apss}{   {\it Astrophys. Space Sci.}} 
+\newcommand{\cjaa}{   {\it Chin. J. Astron. Astrophys.}} 
+\newcommand{\gafd}{   {\it Geophys. Astrophys. Fluid Dyn.}}
+\newcommand{\grl}{    {\it Geophys. Res. Lett.}}
+\newcommand{\ijga}{   {\it Int. J. Geomagn. Aeron.}}
+\newcommand{\jastp}{  {\it J. Atmos. Solar-Terr. Phys.}} 
+\newcommand{\jgr}{    {\it J. Geophys. Res.}}
+\newcommand{\mnras}{  {\it Mon. Not. Roy. Astron. Soc.}}
+\newcommand{\nat}{    {\it Nature}}
+\newcommand{\pasp}{   {\it Pub. Astron. Soc. Pac.}}
+\newcommand{\pasj}{   {\it Pub. Astron. Soc. Japan}}
+\newcommand{\pre}{    {\it Phys. Rev. E}}
+\newcommand{\solphys}{{\it Solar Phys.}}
+\newcommand{\sovast}{ {\it Soviet  Astron.}} 
+\newcommand{\ssr}{    {\it Space Sci. Rev.}} 
+\newcommand{\procspie}{{\it Proc. SPIE}}
+\newcommand{\prl}     {{\it Physical Review Letters}}
+
+
+
+\pagestyle{plain}
+
+%\typein [\files]{Enter file names to process, (chap1,chap2 ...), or `all' to
+%process all files:}
+%\def\all{all}
+%\ifx\files\all \typeout{Including all files.} \else \typeout{Including only \files.} \includeonly{\files} \fi
+
+\begin{document}
+
+\include{cover_uba}
+\include{abstract}
+\include{agradecimientos}
+\include{contents}
+\pagestyle{plain}
+\include{chap1}
+\include{chap2}
+%\appendix
+%\include{appa}
+%\include{appb}
+\include{biblio}
+\end{document}

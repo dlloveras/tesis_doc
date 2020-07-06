@@ -1,0 +1,7 @@
+PWD /data1/tesis_doc/templates
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT cover_uba.tex
+OUTPUT cover_uba.log
