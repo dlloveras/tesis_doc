@@ -1,0 +1,43 @@
+
+\chapter{Campo magnético coronal}
+\url{http://soi.stanford.edu/magnetic/Polar.html}
+\url{http://soi.stanford.edu/magnetic/index6.html}
+\copia{Standard Magnetogram Synoptic Maps
+These images show near-real-time synoptic magnetograms ― full-surface maps of the photospheric magnetic flux density, measured in Gauss.
+Full-disk photospheric magnetograms from GONG's six sites are used to derive a map of the magnetic field over the entire surface of the Sun. This full-surface map is called a synoptic map because it provides a general view of the field condensed from many minute-by-minute images.
+First of all, the GONG one-minute images are used to create 10-minute averages which are in turn remapped into longitude, measured from the central meridian, and sine(latitude). These remapped images are then shifted to the appropriate longitude in the Carrington frame and merged together in a weighted sum to form a full-surface picture of the solar magnetic field. Weighting factors of the form cosine4(longitude) ensure that measurements taken at a particular Carrington time contribute most to that Carrington longitude in the synoptic map. The latest hourly synoptic maps are displayed below with arrows indicating their current times and Carrington longitudes. The 60 degrees to the left of these arrows are regions which have not yet crossed the central meridian.
+Before the full-disk images are remapped, the line-of-sight images are converted to flux density by assuming that the fields are approximately radial at the photosphere. Wherever magnetic flux concentrations are structured by their buoyancy and by the ram pressure of converging photospheric flows at the edges of convection cells, this is a reasonable approximation. This is the case in, e.g., network structures and weak active regions, but not in active regions where the field is strong enough to resist the fluid forces.
+We correct for an annual periodic modulation of measured field strength in polar regions caused by noise at the limb. Polar fields not well observed by the GONG network are represented by a cubic polynomial surface fit to observed fields at neighboring latitudes.
+}
+
+\copia{Synoptic maps of the radial solar magnetic field with interpolated polar fields are now available.
+Due to the inclination of the Earth's orbit to the Sun's equator, one solar pole or the other is not visible for several months each year. As a result synoptic maps typically have an inconvenient, but unavoidable, small data gap at high latitudes.
+During the Carrington Rotation each year when the pole is tipped most toward the Earth, a fairly good observation of the polar field can be made. This happens about March 7 for the south pole and about September 7 for the north. From year to year the large-scale polar field changes relatively slowly, so a reasonable interpolation can be made between the annual views. Extrapolation for recent rotations can be (and is) done, but is less reliable.
+Determining the polar field correction is a multi-step process that preserves as much of the high quality observed data as possible. First, using the annual observations of the visible pole we interpolate in time the slowly varying smoothed polar field for that rotation. Next, to find the smoothed polar field for that rotation, the observations poleward of 75 degrees are replaced by the interpolated annual value and a 7th order polynomial is then fit to the entire region above 55 degrees. Finally that smoothed one-rotation fit is cleanly merged with the full-resolution observations between 62 and 75 degrees; a smooth transition is made from 100\% observed high-resolution MDI field to 100\% interpolated smooth polar field. The field above 75 degrees in the interpolated maps is 100\% the smoothed one-rotation fit.}
+
+\url{http://jsoc.stanford.edu/jsocwiki/MagneticField}
+\copia{SynopticMap : HMI synoptic maps are computed from the 720s line-of-sight magnetograms. Standard radial field synoptic charts are assembled by combining the 20 best observations made nearest central meridian at each longitude. It takes approximately 27.27 days to complete a solar rotation. Synoptic maps are provided in two resolutions and as line-of-sight and inferred radial field. The basic SynopticRadial chart is used to compute the other kinds. DailySynopticMaps insert data observed within 60 degrees of central meridian averaged over a 4-hour interval into the most recent synoptic chart}
+
+
+\url{http://jsoc.stanford.edu/new/HMI/LOS_Synoptic_charts.html}
+Aca dice que HMI es equiespaciado en seno latitud.
+\section{Mediciones fotosféricas}
+\textcolor{red}{
+\begin{itemize}
+  \item MDI/HMI
+  \item GONG
+  \item ADAPT-GONG
+\end{itemize}
+}
+
+
+El objetivo de los modelos de transporte de flujo magnético es proporcionar la mejor estimación de la variación espacial global del campo magnético solar. La inclusión del transporte de flujo ayuda a minimizar los posibles momentos monopolo que ocurren periódicamente en los mapas sinópticos de Carrington cerca del borde de la extremidad solar solar de los datos observados recientemente fusionados y durante los períodos en que las regiones polares solares no se observan bien desde la Tierra. ver \citep{arge_2010} y \citep{hickmann_2015}.
+
+
+\url{ftp://gong2.nso.edu/adapt/maps/}
+*Multiple realizations correspond to different parameters in the ADAPT flux-transport model.
+
+\section{Modelo potencial con superficie fuente: PFSS}
+\subsection{Trazado de líneas magnéticas}
+\subsection{Topología magnética coronal}
+\textcolor{red}{Podemos incluir por primera vez los tipos de lineas sin meter gradientes de temperatura, quizas las tipo 0y1 vengan juntas acá y luego las tipo 2 y luego tipo 3. Podría incluir rpoint de caracteristicos de cada estructura} 

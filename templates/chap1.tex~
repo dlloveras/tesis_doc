@@ -4,22 +4,148 @@
 %% You can process specific files by typing their names in at the 
 %% \files=
 %% prompt when you run the file main.tex through LaTeX.
-\chapter{Introduction}
+%\chapter{Introduction}
 
+\chapter{El Sol y la corona solar}
 
-\section{Motivations }
+\section{Interior Solar}
+\textcolor{red}{
+Esta sección introduce el interior solar, de que esta conformado, como produce energia y como se transmite hacia el exterior.
+\begin{itemize}
+  \item nucleo (fusión)
+  \item zona radiativa y convectiva
+  \item campo magnetico
+  \item manchas solares
+\end{itemize}
+}
+\section{Atmósfera solar}
+\textcolor{red}{En esta sección se introduce el objeto de estudio principal de la tesis, no escatimar en detalles. 
+\begin{itemize}
+  \item Fotosfera
+  \item cromosfera
+  \item region de transicion (referencia al problema del calentamiento coronal)
+  \item extension hasta el medio interplanetario
+  \item eventos importantes ocurren a baja altura y alta altura
+\end{itemize}
+}
+\subsection{La corona solar}
+%\section{El problema del calentamiento coronal}
+The Sun’s visible surface, called the photosphere, is a layer of about 6000 K. The photosphere emits the so-called visible light (380–750 nm), peaking at a green wavelength of 500 nm. Averaged over its visible disk, the Sun’s emission is approximated by the black-body radiation of 5770 K. Above it is a thin layer of about 10000 K called the chromosphere; its average thickness is about 2000 km, much smaller than the solar radius of 7 .10 5 km. Its name (meaning ‘color sphere’) comes from its pinkish color surrounding a dark Sun in total eclipses, due to the H, (hydrogen Balmer-,) line of 656.3 nm. Also seen in total solar eclipses is the solar corona (Fig. \red{foto eclipse total san juan}), a pearly halo extending further out to a few solar radii. The solar corona is a tenuous outer atmosphere of the Sun, with a temperature of 1–2 MK. Although the existence of the corona has long been known by total solar eclipses, its million-degree temperature was not recognized until its spectra were correctly interpreted by the physics of radiation processes in the 1940s.
+Then the question was raised why such a high temperature of the corona is brought about. Since the density of the corona (10 8–9 cm !3 ) is much smaller than that of the photosphere (10 17 cm !3 ), the thermal energy density of the corona (although it is 200–300 times hotter than the photosphere) is negligibly small compared with the photospheric energy density. However, due to the second law of thermodynamics, heat cannot flow from the photosphere to the corona to raise the coronal temperatures hotter than the photosphere. (Conversely, the heat actually flows from the corona to the photosphere; see Fig. 8.) Since there is no plausible source of energy further out in the corona to heat up the corona, we must assume that some form of energy other than heat is supplied from below the corona to realize its million-degree temperature. This is the coronal heating problem discussed in this article.
+Figure \red{Figura 1.5 tesis Cecere} shows the temperature and density structures of the solar atmosphere. A thin boundary between the chromosphere and the corona is called the transition region, where the temperature suddenly jumps from 10 4 K to 10 6 K. The transition region emits ultraviolet (UV) and extreme ultraviolet (EUV) radiations. The emission from the corona of 1–2 MK is in the EUV to soft X-ray ranges. The visible light seen in total solar eclipses is photospheric light scattered by free electrons in the corona, and not ‘emitted’ by coronal plasmas. The emission lines seen in the visible wavelengths during total eclipses are due to a peculiar process described below, and should not be regarded as the main radiation from coronal plasmas. \citet{sakurai_2017}
 
+\subsection{Viento solar}
+\textcolor{red}{
+Que es? que importancia tiene (impacto en la magnetosfera terrestre)? Comentar sobre el clima y la prediccion espacial. comentar sobre la formacion, morfologia, espiral de parker, aceleracion.
+\begin{itemize}
+  \item espiral de parker
+  \item importancia en la prediccion del clima espacial
+  \item propiedades
+  \item Ulysses (mensionar grafico y paper)
+  \item IMF y HCS (se puede evidenciar esto con graficos del modelo MHD ENLIL de ser necesario)
+  \item viento solar arrastra el campo magnetico
+\end{itemize}
+}
+
+\section{El ciclo de actividad solar}
+\textcolor{red}{
+Debe explicarse principalmente la descripcion fenomenologica de las observaciones que la caracteriza.
+\begin{itemize}
+  \item Manchas solares y flujo F10.7 como indicadores
+  \item diagrama mariposa
+  \item grafico Hathaway
+\end{itemize}
+}
+
+\chapter{Plasma coronal}
 \section{MHD}
-Damping of Alfvén wave turbulence as a source of coronal heating has also been extensively studied from the early days of in situ solar wind observations (e.g., Barnes 1966, 1968). Later, it was demonstrated that reflection from sharp pressure gradients in the solar wind (Heinemann and Olbert 1980; Leroy 1980) is a critical component of Alfvén wave turbulence damping (Matthaeus et al. 1999; Dmitruk et al. 2002; Verdini and Velli 2007). For this reason, many numerical models explore the generation of reflected counter-propagating waves as the underlying cause of the turbulence energy cascade (e.g., Cranmer and Van Ballegooijen 2010), which transports the energy of turbulence from the large-scale motions across the inertial range of the turbulence spatial scale to short-wavelength perturbations. The latter can be efficiently damped due to wave–particle interaction. In this way, the turbulence energy is converted to random (thermal) energy.
+\textcolor{red}{Introducir MHD como descripcion principal en el plasma coronal. Comentar todas las aproximacions, de donde se parte y a donde se llega. Definir Reynold magnético y de la ec de induccion explicar que para Rm grande el campo magnetico es arrastrado por el fluido. Notar que esto explica buena parte de la estructura del viento solar, IMF, HCS, etc.
+\begin{itemize}
+  \item MHD ideal
+  \item Frozen-in
+  \item Rm
+\end{itemize}
+}
 
-\section{AWSoM}\label{ch1:opts}
+\section{Emisividad EUV}
+\textcolor{red}{Seccion 2.2 de la tesis de lic.}
+\section{Emisividad en luz blanca}
+\textcolor{red}{buscar el paper!}
+
+\chapter{Instrumentacion - Misiones}
+\section{EIT/soho}
+\section{LASCO/soho}
+\section{EUVI/stereo}
+\section{AIA/sdo}
+\section{K-Coronogrpah/HAO}
 
 
 
 
+
+\chapter{Campo magnético coronal}
+\url{http://soi.stanford.edu/magnetic/Polar.html}
+\url{http://soi.stanford.edu/magnetic/index6.html}
+\copia{Standard Magnetogram Synoptic Maps
+These images show near-real-time synoptic magnetograms ― full-surface maps of the photospheric magnetic flux density, measured in Gauss.
+Full-disk photospheric magnetograms from GONG's six sites are used to derive a map of the magnetic field over the entire surface of the Sun. This full-surface map is called a synoptic map because it provides a general view of the field condensed from many minute-by-minute images.
+First of all, the GONG one-minute images are used to create 10-minute averages which are in turn remapped into longitude, measured from the central meridian, and sine(latitude). These remapped images are then shifted to the appropriate longitude in the Carrington frame and merged together in a weighted sum to form a full-surface picture of the solar magnetic field. Weighting factors of the form cosine4(longitude) ensure that measurements taken at a particular Carrington time contribute most to that Carrington longitude in the synoptic map. The latest hourly synoptic maps are displayed below with arrows indicating their current times and Carrington longitudes. The 60 degrees to the left of these arrows are regions which have not yet crossed the central meridian.
+Before the full-disk images are remapped, the line-of-sight images are converted to flux density by assuming that the fields are approximately radial at the photosphere. Wherever magnetic flux concentrations are structured by their buoyancy and by the ram pressure of converging photospheric flows at the edges of convection cells, this is a reasonable approximation. This is the case in, e.g., network structures and weak active regions, but not in active regions where the field is strong enough to resist the fluid forces.
+We correct for an annual periodic modulation of measured field strength in polar regions caused by noise at the limb. Polar fields not well observed by the GONG network are represented by a cubic polynomial surface fit to observed fields at neighboring latitudes.
+}
+
+\copia{Synoptic maps of the radial solar magnetic field with interpolated polar fields are now available.
+Due to the inclination of the Earth's orbit to the Sun's equator, one solar pole or the other is not visible for several months each year. As a result synoptic maps typically have an inconvenient, but unavoidable, small data gap at high latitudes.
+During the Carrington Rotation each year when the pole is tipped most toward the Earth, a fairly good observation of the polar field can be made. This happens about March 7 for the south pole and about September 7 for the north. From year to year the large-scale polar field changes relatively slowly, so a reasonable interpolation can be made between the annual views. Extrapolation for recent rotations can be (and is) done, but is less reliable.
+Determining the polar field correction is a multi-step process that preserves as much of the high quality observed data as possible. First, using the annual observations of the visible pole we interpolate in time the slowly varying smoothed polar field for that rotation. Next, to find the smoothed polar field for that rotation, the observations poleward of 75 degrees are replaced by the interpolated annual value and a 7th order polynomial is then fit to the entire region above 55 degrees. Finally that smoothed one-rotation fit is cleanly merged with the full-resolution observations between 62 and 75 degrees; a smooth transition is made from 100\% observed high-resolution MDI field to 100\% interpolated smooth polar field. The field above 75 degrees in the interpolated maps is 100\% the smoothed one-rotation fit.}
+
+\url{http://jsoc.stanford.edu/jsocwiki/MagneticField}
+\copia{SynopticMap : HMI synoptic maps are computed from the 720s line-of-sight magnetograms. Standard radial field synoptic charts are assembled by combining the 20 best observations made nearest central meridian at each longitude. It takes approximately 27.27 days to complete a solar rotation. Synoptic maps are provided in two resolutions and as line-of-sight and inferred radial field. The basic SynopticRadial chart is used to compute the other kinds. DailySynopticMaps insert data observed within 60 degrees of central meridian averaged over a 4-hour interval into the most recent synoptic chart}
+
+
+\url{http://jsoc.stanford.edu/new/HMI/LOS_Synoptic_charts.html}
+Aca dice que HMI es equiespaciado en seno latitud.
+\section{Mediciones fotosféricas}
+\subsection{MDI/HMI}
+\subsection{GONG}
 \subsection{ADAPT-GONG}
 
 El objetivo de los modelos de transporte de flujo magnético es proporcionar la mejor estimación de la variación espacial global del campo magnético solar. La inclusión del transporte de flujo ayuda a minimizar los posibles momentos monopolo que ocurren periódicamente en los mapas sinópticos de Carrington cerca del borde de la extremidad solar solar de los datos observados recientemente fusionados y durante los períodos en que las regiones polares solares no se observan bien desde la Tierra. ver \citep{arge_2010} y \citep{hickmann_2015}.
+
+
+\url{ftp://gong2.nso.edu/adapt/maps/}
+*Multiple realizations correspond to different parameters in the ADAPT flux-transport model.
+
+\section{Modelo potencial con superficie fuente: PFSS}
+\subsection{Trazado de líneas magnéticas}
+\subsection{Topología magnética coronal}
+\textcolor{red}{Podemos incluir por primera vez los tipos de lineas sin meter gradientes de temperatura, quizas las tipo 0y1 vengan juntas acá y luego las tipo 2 y luego tipo 3. Podría incluir rpoint de caracteristicos de cada estructura} 
+
+\chapter{Tomografía}
+\section{El problema tomográfico}
+\section{Tomograía en EUV}
+\subsection{FBE}
+\subsection{Validacion cruzada}
+\subsection{Momentos LDEM}
+
+\section{Tomografía en luz blanca}
+
+\subsection{Incertezas (apendice?)}
+
+
+\chapter{Modelo MHD}
+
+\textcolor{red}{
+\begin{itemize}
+  \item Importancia de un modelo MHD 3D
+  \item Modelo AWSoM
+\end{itemize}
+}
+\section{Modelo AWSoM}
+Damping of Alfvén wave turbulence as a source of coronal heating has also been extensively studied from the early days of in situ solar wind observations (e.g., Barnes 1966, 1968). Later, it was demonstrated that reflection from sharp pressure gradients in the solar wind (Heinemann and Olbert 1980; Leroy 1980) is a critical component of Alfvén wave turbulence damping (Matthaeus et al. 1999; Dmitruk et al. 2002; Verdini and Velli 2007). For this reason, many numerical models explore the generation of reflected counter-propagating waves as the underlying cause of the turbulence energy cascade (e.g., Cranmer and Van Ballegooijen 2010), which transports the energy of turbulence from the large-scale motions across the inertial range of the turbulence spatial scale to short-wavelength perturbations. The latter can be efficiently damped due to wave–particle interaction. In this way, the turbulence energy is converted to random (thermal) energy.
+\section{AWSoM}\label{ch1:opts}
+
+
 
 
 
@@ -37,5 +163,3 @@ El objetivo de los modelos de transporte de flujo magnético es proporcionar la 
 % beginning of the line, and insert your own information in the call.
 %
 %\tgrind[htbp]{code/be.s.tex}{Block Exponent}{opt:be}
-
-

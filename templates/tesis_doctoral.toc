@@ -1,0 +1,34 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{Resumen}{III}{chapter*.1}% 
+\contentsline {chapter}{Abstract}{1}{chapter*.2}% 
+\contentsline {chapter}{Agradecimientos}{3}{chapter*.3}% 
+\contentsline {chapter}{\numberline {1}El Sol y la corona solar}{11}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Interior Solar}{11}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Atm\IeC {\'o}sfera solar}{11}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}La corona solar}{12}{subsection.1.2.1}% 
+\contentsline {subsection}{\numberline {1.2.2}Viento solar}{13}{subsection.1.2.2}% 
+\contentsline {section}{\numberline {1.3}El ciclo de actividad solar}{13}{section.1.3}% 
+\contentsline {chapter}{\numberline {2}Plasma coronal}{15}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Emisividad EUV}{15}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Instrumentos EUV}{15}{subsection.2.1.1}% 
+\contentsline {section}{\numberline {2.2}Emisividad en luz blanca}{15}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Instrumentos LB utilizados}{15}{subsection.2.2.1}% 
+\contentsline {section}{\numberline {2.3}MHD}{16}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Modelo AWSoM}{16}{section.2.4}% 
+\contentsline {chapter}{\numberline {3}Tomograf\IeC {\'\i }a}{19}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}El problema tomogr\IeC {\'a}fico}{19}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Tomogra\IeC {\'\i }a en EUV}{19}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}FBE}{19}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}Validacion cruzada}{19}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}Momentos LDEM}{19}{subsection.3.2.3}% 
+\contentsline {section}{\numberline {3.3}Tomograf\IeC {\'\i }a en luz blanca}{19}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}Incertezas (apendice?)}{19}{subsection.3.3.1}% 
+\contentsline {chapter}{\numberline {4}Campo magn\IeC {\'e}tico coronal}{21}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Mediciones fotosf\IeC {\'e}ricas}{23}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Modelo potencial con superficie fuente: PFSS}{24}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Trazado de l\IeC {\'\i }neas magn\IeC {\'e}ticas}{24}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Topolog\IeC {\'\i }a magn\IeC {\'e}tica coronal}{24}{subsection.4.2.2}% 
+\contentsline {chapter}{\numberline {5}Solphys 2017}{25}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}freswed + Nishtha}{27}{chapter.6}% 
+\contentsline {chapter}{\numberline {7}Nuevo analisis}{29}{chapter.7}% 
+\contentsline {chapter}{\numberline {8}comparacion energetica}{31}{chapter.8}% 

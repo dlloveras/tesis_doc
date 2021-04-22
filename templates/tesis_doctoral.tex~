@@ -36,6 +36,7 @@
 \begin{document}
 
 \include{cover_uba}
+\include{resumen}
 \include{abstract}
 \include{agradecimientos}
 \include{contents}
